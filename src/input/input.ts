@@ -1,4 +1,4 @@
 import fs from 'fs';
-fs.createReadStream('../dist/start.csa')
+fs.createReadStream('./start.csa')
 
 let input = [];
