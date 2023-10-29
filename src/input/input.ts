@@ -1,4 +1,10 @@
 import fs from 'fs';
-fs.createReadStream('./start.csa')
+import path from 'path';
+const filePath = path.resolve(__dirname, './start.csa')
+let startFile = fs.readFileSync(filePath, 'utf8')
+if(startFile!==':'){
 
-let input = [];
+} else {
+  
+}
+console.log(startFile)

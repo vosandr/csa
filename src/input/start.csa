@@ -1,4 +1,11 @@
-.a[
+a
+{
   block,
   text-inherit
-]
+  ,
+  w-0}
+.b{
+  width:0.25rem
+  ;
+  text-sm
+}
