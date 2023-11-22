@@ -1,1 +1,5 @@
-This is a preliminary concept of the project, which is based on the idea of array(.csa) conversion​ to css based on configuration tailwind for subsequent use with pug
+## Концепт нового формата стилей, которые потом конвертируются в css
+Этот формат будет использовать стили tailwindcss в формате arrobj или arr, представленном в этом концепте:  
+https://github.com/vosandr/arrobj
+# Главная страница
+https://github.com/vosandr/vosandr
